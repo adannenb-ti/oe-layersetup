@@ -5,3 +5,4 @@ downloads
 bitbake.lock
 pseudodone
 *.dot
+sstate-cache
